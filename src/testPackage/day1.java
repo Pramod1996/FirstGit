@@ -9,5 +9,6 @@ public class day1 {
 	public void demo()
 	{
 		system.out.println("whrt ato d");
+		kjnsdnflkskclsdnl
 	}
 }
