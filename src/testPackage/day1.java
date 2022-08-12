@@ -8,6 +8,6 @@ public class day1 {
 	@Test
 	public void demo()
 	{
-		System.out.println("check");
+		
 	}
 }
